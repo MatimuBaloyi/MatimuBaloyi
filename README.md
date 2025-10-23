@@ -8,11 +8,11 @@ My journey in tech is guided by curiosity, creativity, and faith — I believe e
 ---
 
 ### 🚀 What I’m Working On
- 🎯 **Career Portal (BSG LaunchPad)** – A youth-focused platform to help young people kick-start their careers with BSG.  
+- 🎯 **Career Portal (BSG LaunchPad)** – A youth-focused platform to help young people kick-start their careers with BSG.  
   🌍 [Visit Project](https://matimubaloyi.github.io/BSG-PROJECT/)
 - 💼 **Web Portfolio** – My digital space to showcase skills and projects.  
-  🌐 [Visit Portfolio] (https://matimu2025.github.io/WEBPORTFOLIO/)
-- 🏨 **HotelSmart** – A hotel booking web platform with an admin dashboard and modern UI.
+  🌐 [Visit Portfolio](https://matimu2025.github.io/WEBPORTFOLIO/)
+- 🏨 **HotelSmart** – A hotel booking web platform with an admin dashboard and modern UI.  
 - 💸 **Future Payments App** – Reimagining the future of payments in Africa.
 
 ---
